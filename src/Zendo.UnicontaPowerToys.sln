@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zendo.UnicontaPowerToys.Ext
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zendo.UnicontaPowerToys.Cache", "Zendo.UnicontaPowerToys.Cache\Zendo.UnicontaPowerToys.Cache.csproj", "{8F0E5EB2-408C-413F-B831-C2F7EFE1E138}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{E77CFA2A-313B-C700-23A1-0442B3DB4265}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E77CFA2A-313B-C700-23A1-0442B3DB4265}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E77CFA2A-313B-C700-23A1-0442B3DB4265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0E5EB2-408C-413F-B831-C2F7EFE1E138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0E5EB2-408C-413F-B831-C2F7EFE1E138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0E5EB2-408C-413F-B831-C2F7EFE1E138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0E5EB2-408C-413F-B831-C2F7EFE1E138}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
