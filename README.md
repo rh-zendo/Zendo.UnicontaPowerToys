@@ -12,3 +12,4 @@ A few reasons...
 # What to expect ?
 Dont expect this to be a nuget package this is just a repo for the code to be public.
 Dont expect me to update on the regular.
+I mostly develop API's and not inside the Uniconta Client (Plugin/Pages ect.) Code should work in both places especially after Uniconta switches the client to run .Net and not .Net Framwork
