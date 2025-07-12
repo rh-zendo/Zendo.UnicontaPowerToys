@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+<ItemGroup>
+	<PackageReference Include="Uniconta.NetStandardAPI2.1" Version="94.0.0.6" />
+</ItemGroup>
+
+</Project>

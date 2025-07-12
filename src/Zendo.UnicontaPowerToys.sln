@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zendo.UnicontaPowerToys", "Zendo.UnicontaPowerToys\Zendo.UnicontaPowerToys.csproj", "{D7D3C015-85EB-C940-F43C-BD302EBC85BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zendo.UnicontaPowerToys.Extensions", "Zendo.UnicontaPowerToys.Extensions\Zendo.UnicontaPowerToys.Extensions.csproj", "{E77CFA2A-313B-C700-23A1-0442B3DB4265}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7D3C015-85EB-C940-F43C-BD302EBC85BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D3C015-85EB-C940-F43C-BD302EBC85BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D3C015-85EB-C940-F43C-BD302EBC85BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D3C015-85EB-C940-F43C-BD302EBC85BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E77CFA2A-313B-C700-23A1-0442B3DB4265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77CFA2A-313B-C700-23A1-0442B3DB4265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77CFA2A-313B-C700-23A1-0442B3DB4265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77CFA2A-313B-C700-23A1-0442B3DB4265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D7EE6A8-A582-467C-B457-446B7E921FA2}
+	EndGlobalSection
+EndGlobal
