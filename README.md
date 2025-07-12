@@ -10,6 +10,7 @@ A few reasons...
 - Im hoping this will help new devs understand how Uniconta's API work abit more. I properly wont give super detailed explanations but the code will be available.
 
 # What to expect ?
+- Im not perfect, nore the best developer but i try my best :)
 - Dont expect this to be a nuget package this is just a repo for the code to be public.
 - Dont expect me to update on the regular.
 - I mostly develop API's and not inside the Uniconta Client (Plugin/Pages ect.) Code should work in both places especially after Uniconta switches the client to run .Net and not .Net Framwork
