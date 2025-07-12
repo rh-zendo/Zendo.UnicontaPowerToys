@@ -6,8 +6,8 @@ The code will usally be based (.Net Core) or .Net what ever you wanna call it on
 # Why opensource ?
 A few reasons...
 
-1: Currently i work for a Company using Uniconta heavly and like any software Uniconta is not perfect. So the goal is to point out some issues and give potential solutions.
-2: Im hoping this will help new devs understand how Uniconta's API work abit more. I properly wont give super detailed explanations but the code will be available.
+- Currently i work for a Company using Uniconta heavly and like any software Uniconta is not perfect. So the goal is to point out some issues and give potential solutions.
+- Im hoping this will help new devs understand how Uniconta's API work abit more. I properly wont give super detailed explanations but the code will be available.
 
 # What to expect ?
 Dont expect this to be a nuget package this is just a repo for the code to be public.
